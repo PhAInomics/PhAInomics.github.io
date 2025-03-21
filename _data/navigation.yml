@@ -2,10 +2,11 @@
 main:
     - title: "Splash Page"
       url: /
-    - title: "SPROUT"
+   - title: "Overview"
+     url: /overview/
+  - title: "SPROUT"
       url: /sprout/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+ 
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
