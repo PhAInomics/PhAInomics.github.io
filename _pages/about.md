@@ -1,8 +1,9 @@
 ---
 title: "AI STUFF"
 header:
-  image: /assets/images/AITree.png
+  overlay_image: /assets/images/AITree.png
   caption: "Photo credit: Marco"
+layout: splash
 permalink: /about/
 ---
 
