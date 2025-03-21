@@ -3,9 +3,9 @@ title: "SPROUT"
 permalink: /sprout/
 overlay_image: /assets/images/SPROUT.png
 layout: single
+classes: wide
 date: 
 ---
-
 
 
 Introducing SPROUT: Semi-automated Parcellation of Region Outputs Using Thresholding
