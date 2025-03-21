@@ -1,7 +1,6 @@
 ---
 title: "Overview of AI methods for Evolutionary Phenomics"
 permalink: /overview/
-#date: 2016-02-24T03:02:20+00:00
 ---
 
 We recently reviewed "Challenges and opportunities in applying AI to evolutionary morphology", with details of existing tools and suggestions of future directions. 
