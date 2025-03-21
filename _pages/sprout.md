@@ -1,10 +1,9 @@
-defaults:
-  # _pages
-  - scope:
-      path: "/sprout/"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+---
+title: "SPROUT"
+permalink: /sprout/
+date: 
+---
 
-title: "Splash Page"
+#This is a page about SPROUT. 
+
+> SPROUT is a method!
