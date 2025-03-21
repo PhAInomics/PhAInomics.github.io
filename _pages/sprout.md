@@ -1,7 +1,7 @@
 ---
 title: "SPROUT"
 permalink: /sprout/
-overlay_image: "/assets/SPROUT.png"
+overlay_image: "/assets/images/SPROUT.png"
 date: 
 ---
 
