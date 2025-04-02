@@ -1,12 +1,8 @@
 ---
 title: "Overview of AI methods for Evolutionary Phenomics"
 permalink: /overview/
----
 
----
-title: "Phenomics AI"
 layout: splash
-permalink: /
 date: 
 header:
   overlay_color: "#000"
@@ -58,10 +54,9 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-<div style="max-width: 800px; margin: 0 auto; text-align: left; line-height: 1.6;">
+---
 
-We recently reviewed _"Challenges and opportunities in applying AI to evolutionary morphology"_, with details of existing tools and suggestions of future directions.  
-
+---
 **Citation:**  
 Y. He, J.M. Mulqueeney, E.C. Watt, A. Salili-James, N.S. Barber, M. Camaiti,  
 E.S.E. Hunt, O. Kippax-Chui, A. Knapp, A. Lanzetti, G. Rangel-de Lázaro,  
