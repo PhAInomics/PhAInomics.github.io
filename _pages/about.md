@@ -1,5 +1,5 @@
 ---
-title: "AI STUFF"
+title: "About"
 layout: splash
 permalink: /about/
 date: 
