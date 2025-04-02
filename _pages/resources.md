@@ -1,5 +1,5 @@
 ---
-title: "Overview of AI methods for Evolutionary Phenomics"
+title: "AI Resources for Phenomics"
 permalink: /overview/
 
 layout: splash
