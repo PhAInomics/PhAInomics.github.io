@@ -1,7 +1,7 @@
 ---
 title: "Phenomics AI"
 layout: splash
-permalink: /
+permalink: /home/
 date: 
 header:
   overlay_color: "#000"
