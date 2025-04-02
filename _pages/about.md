@@ -55,6 +55,6 @@ feature_row4:
 
 ---
 
-This is a sample post with a large feature image about Phainomics
+This website is currently under construction and managed by the Goswami Lab. You can find us at: https://www.goswamilab.com/
 
 [^1]: Texture image courtesty of [Lovetextures](http://www.lovetextures.com/)
