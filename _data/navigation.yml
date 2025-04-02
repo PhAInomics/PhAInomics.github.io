@@ -2,7 +2,7 @@
 main:
     - title: "Home"
       url: /
-    - title: "EvMorph Tools"
+    - title: "Resources"
       url: /overview/
     - title: "SPROUT"
       url: /sprout/
