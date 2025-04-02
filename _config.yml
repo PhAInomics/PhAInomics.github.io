@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "The Goswami Lab @ the Natural History Museum, London"
 description              : "A website with AI and Computer Vision tools for Phenomic Analyses of Organismal Evolution"
-url                      : "https://evolutionaryphenomics.org/home" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://evolutionaryphenomics.org/home/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/AITree.png"
