@@ -57,3 +57,13 @@ feature_row4:
 
 This is a project site of the Goswami lab at the Natural History Museum.  We are broadly interested in the evolution of organismal shape and try to capture this using high-dimensional morphometric approaches.  Because this is really hard and time-consuming to do, we have been exploring AI approches to data collection and analysis. This site shares what we have learned or developed. It is, and will almost certainly always be, a work in progress. You can read more about our evolutionary research at www.goswamilab.com.
 [^1]: Texture image courtesty of [Lovetextures](http://www.lovetextures.com/)
+
+<br>
+
+<figure>
+  <img
+    src="https://github.com/PhAInomics/PhAInomics.github.io/blob/main/assets/images/SPROUT.png"
+     alt="Skulls segmented using SPROUT"
+    >
+  <figcaption> </figcaption>
+</figure>
