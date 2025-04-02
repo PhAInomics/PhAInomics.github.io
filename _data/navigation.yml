@@ -1,8 +1,8 @@
 # main links
 main:
-    - title: "Splash Page"
+    - title: "Home"
       url: /
-    - title: "Overview"
+    - title: "EvMorph Tools"
       url: /overview/
     - title: "SPROUT"
       url: /sprout/
