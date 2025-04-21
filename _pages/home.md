@@ -22,21 +22,22 @@ intro:
 <!-- Smaller clickable images below -->
 <div class="grid">
   <div class="grid-item" style="width: 33%; padding: 10px;">
-    <a href="/supervised-learning">
-      <img src="/assets/images/" alt="Supervised Learning" style="width: 100%;"/>
-      <h3>Supervised Learning</h3>
+    <a href="/artificial-intelligence">
+      <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="Artificial Intelligence" style="width: 100%;"/>
+      <h3>Artificial Intelligence</h3>
     </a>
   </div>
   <div class="grid-item" style="width: 33%; padding: 10px;">
-    <a href="/semi-supervised-learning">
-      <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="Semi-Supervised Learning" style="width: 100%;"/>
-      <h3>Semi-Supervised Learning</h3>
+    <a href="/machine-learning">
+      <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="Machine Learning" style="width: 100%;"/>
+      <h3>Machine Learning</h3>
     </a>
   </div>
   <div class="grid-item" style="width: 33%; padding: 10px;">
-    <a href="/unsupervised-learning">
-      <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="Unsupervised Learning" style="width: 100%;"/>
-      <h3>Unsupervised Learning</h3>
+    <a href="/deep-learning">
+      <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="Deep Learning" style="width: 100%;"/>
+      <h3>Deep Learning</h3>
     </a>
   </div>
 </div>
+
