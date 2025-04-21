@@ -23,7 +23,7 @@ intro:
 <div class="grid">
   <div class="grid-item" style="width: 33%; padding: 10px;">
     <a href="/artificial-intelligence">
-      <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="Artificial Intelligence" style="width: 100%;"/>
+      <img src="/assets/images/Artificial_Intelligence_Link.png" alt="Artificial Intelligence" style="width: 100%;"/>
       <h3>Artificial Intelligence</h3>
     </a>
   </div>
