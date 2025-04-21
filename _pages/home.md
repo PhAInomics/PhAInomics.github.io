@@ -35,7 +35,7 @@ intro:
   </div>
   <div style="flex: 1; text-align: center;">
     <a href="/deep-learning">
-      <img src="/assets/images/Deep_Learning_Link.png" alt="Deep Learning" style="width: 100%; max-width: 100%; height: auto;"/>
+      <img src="/assets/images/Deep_LearningLink.png" alt="Deep Learning" style="width: 100%; max-width: 100%; height: auto;"/>
       <h3>Deep Learning</h3>
     </a>
   </div>
