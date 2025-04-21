@@ -23,7 +23,7 @@ intro:
 <div class="grid">
   <div class="grid-item" style="width: 33%; padding: 10px;">
     <a href="/supervised-learning">
-      <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="Supervised Learning" style="width: 100%;"/>
+      <img src="/assets/images/Fig.1 updated.jpg" alt="Supervised Learning" style="width: 100%;"/>
       <h3>Supervised Learning</h3>
     </a>
   </div>
