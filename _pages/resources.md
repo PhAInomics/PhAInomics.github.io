@@ -56,7 +56,37 @@ feature_row4:
 
 ---
 
+<div class="grid">
+  <div class="grid-item">
+    <a href="/data-acquisition">
+      <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="Data Acquisition" />
+      <h3>Data Acquisition</h3>
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="/image-processing">
+      <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="Image Processing" />
+      <h3>Image Processing</h3>
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="/phenomics">
+      <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="Phenomics" />
+      <h3>Phenomics</h3>
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="/evolutionary-analysis">
+      <img src="/assets/images/unsplash-gallery-image-4-th.jpg" alt="Evolutionary Analysis" />
+      <h3>Evolutionary Analysis</h3>
+    </a>
+  </div>
+</div>
+
 ---
+
+---
+
 **Citation:**  
 Y. He, J.M. Mulqueeney, E.C. Watt, A. Salili-James, N.S. Barber, M. Camaiti,  
 E.S.E. Hunt, O. Kippax-Chui, A. Knapp, A. Lanzetti, G. Rangel-de Lázaro,  
