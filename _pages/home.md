@@ -29,7 +29,7 @@ intro:
   </div>
   <div class="grid-item" style="width: 33%; padding: 10px;">
     <a href="/machine-learning">
-      <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="Machine Learning" style="width: 100%;"/>
+      <img src="/assets/images/Machine_Learning_Link.png" alt="Machine Learning" style="width: 100%;"/>
       <h3>Machine Learning</h3>
     </a>
   </div>
