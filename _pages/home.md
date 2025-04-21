@@ -35,7 +35,7 @@ intro:
   </div>
   <div class="grid-item" style="width: 33%; padding: 10px;">
     <a href="/deep-learning">
-      <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="Deep Learning" style="width: 100%;"/>
+      <img src="/assets/images/Deep_Learning_Link.png" alt="Deep Learning" style="width: 100%;"/>
       <h3>Deep Learning</h3>
     </a>
   </div>
