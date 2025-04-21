@@ -15,7 +15,7 @@ intro:
 
 <!-- Main Image at the top -->
 <figure>
-  <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="Main Image" style="width: 100%;">
+  <img src="/assets/images/Fig.1 updated.jpg" alt="Main Image" style="width: 100%;">
   <figcaption>Main Image Description</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ intro:
 <div class="grid">
   <div class="grid-item" style="width: 33%; padding: 10px;">
     <a href="/supervised-learning">
-      <img src="/assets/images/Fig.1 updated.jpg" alt="Supervised Learning" style="width: 100%;"/>
+      <img src="/assets/images/" alt="Supervised Learning" style="width: 100%;"/>
       <h3>Supervised Learning</h3>
     </a>
   </div>
