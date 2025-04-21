@@ -19,25 +19,24 @@ intro:
   <figcaption>Main Image Description</figcaption>
 </figure>
 
-<!-- Smaller clickable images below -->
-<div class="grid">
-  <div class="grid-item" style="width: 33%; padding: 10px;">
+<!-- Smaller clickable images in a horizontal row -->
+<div style="display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: flex-start; width: 100%; gap: 20px; margin-top: 20px;">
+  <div style="flex: 1; text-align: center;">
     <a href="/artificial-intelligence">
-      <img src="/assets/images/Artificial_Intelligence_Link.png" alt="Artificial Intelligence" style="width: 100%;"/>
+      <img src="/assets/images/Artificial_Intelligence_Link.png" alt="Artificial Intelligence" style="width: 100%; max-width: 100%; height: auto;"/>
       <h3>Artificial Intelligence</h3>
     </a>
   </div>
-  <div class="grid-item" style="width: 33%; padding: 10px;">
+  <div style="flex: 1; text-align: center;">
     <a href="/machine-learning">
-      <img src="/assets/images/Machine_Learning_Link.png" alt="Machine Learning" style="width: 100%;"/>
+      <img src="/assets/images/Machine_Learning_Link.png" alt="Machine Learning" style="width: 100%; max-width: 100%; height: auto;"/>
       <h3>Machine Learning</h3>
     </a>
   </div>
-  <div class="grid-item" style="width: 33%; padding: 10px;">
+  <div style="flex: 1; text-align: center;">
     <a href="/deep-learning">
-      <img src="/assets/images/Deep_Learning_Link.png" alt="Deep Learning" style="width: 100%;"/>
+      <img src="/assets/images/Deep_Learning_Link.png" alt="Deep Learning" style="width: 100%; max-width: 100%; height: auto;"/>
       <h3>Deep Learning</h3>
     </a>
   </div>
 </div>
-
