@@ -8,15 +8,6 @@ header:
   overlay_image: /assets/images/AITree.png
   caption: "Photo credit: Marco Camaiti"
 excerpt: Welcome to the wonderful world of Phenomics with AI
----
-
-<!-- Main Image at the top -->
-<figure>
-  <img src="/assets/images/Fig.1 updated.jpg" alt="Main Image" style="width: 100%;">
-  <figcaption>Main Image Description</figcaption>
-</figure>
-
----
 
 ## Welcome to Phenomics AI
 
@@ -24,9 +15,17 @@ In an era where technology and biological sciences intersect, **Phenomics AI** s
 
 Here, we leverage cutting-edge computational techniques, such as deep learning and automated image analysis, to analyze complex biological data. Our mission is to support researchers and practitioners in their exploration of phenotypic variation, evolutionary processes, and ecological adaptations, all while providing the power of AI to streamline data processing and analysis.
 
-Whether you're interested in **data acquisition**, **image processing**, or **evolutionary analysis**, Phenomics AI offers a comprehensive suite of resources designed to accelerate your research. Explore the latest advancements in the field and discover new ways to enhance your understanding of how organisms interact with their environment.
+Whether you're interested in **Data Acquisition**, **Image Processing**, **Phenomics**, or **Evolutionary Analysis**, Phenomics AI offers a comprehensive suite of resources designed to accelerate your research. Explore the latest advancements in the field and discover new ways to enhance your understanding of how organisms interact with their environment.
 
 Join us as we explore the exciting potential of AI in revolutionizing the way we study and understand biological phenotypes.
+
+---
+
+<!-- Main Image at the top -->
+<figure>
+  <img src="/assets/images/Fig.1 updated.jpg" alt="Main Image" style="width: 100%;">
+  <figcaption>Main Image Description</figcaption>
+</figure>
 
 ---
 
