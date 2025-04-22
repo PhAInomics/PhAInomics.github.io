@@ -77,7 +77,7 @@ feature_row4:
   </div>
   <div class="grid-item">
     <a href="/evolutionary-analysis">
-      <img src="/assets/images/unsplash-gallery-image-4-th.jpg" alt="Evolutionary Analysis" />
+      <img src="/assets/images/Evolutionary_Analysis.png" alt="Evolutionary Analysis" />
       <h3>Evolutionary Analysis</h3>
     </a>
   </div>
