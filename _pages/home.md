@@ -19,11 +19,11 @@ intro:
   <figcaption>Main Image Description</figcaption>
 </figure>
 
-<!-- Full-width container for bottom images -->
-<div style="width: 100%; display: flex; justify-content: space-between; align-items: flex-start; margin-top: 30px;">
+<!-- Full-width container for bottom images with spacing -->
+<div style="width: 100%; display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin-top: 30px;">
 
   <!-- First image -->
-  <div style="width: 33.33%; text-align: center;">
+  <div style="width: 33.33%; text-align: center; box-sizing: border-box;">
     <a href="/artificial-intelligence">
       <img src="/assets/images/Artificial_Intelligence_Link.png" alt="Artificial Intelligence" style="width: 100%; height: 600px; object-fit: contain;">
       <h3>Artificial Intelligence</h3>
@@ -31,7 +31,7 @@ intro:
   </div>
 
   <!-- Second image -->
-  <div style="width: 33.33%; text-align: center;">
+  <div style="width: 33.33%; text-align: center; box-sizing: border-box;">
     <a href="/machine-learning">
       <img src="/assets/images/Machine_Learning_Link.png" alt="Machine Learning" style="width: 100%; height: 600px; object-fit: contain;">
       <h3>Machine Learning</h3>
@@ -39,7 +39,7 @@ intro:
   </div>
 
   <!-- Third image -->
-  <div style="width: 33.33%; text-align: center;">
+  <div style="width: 33.33%; text-align: center; box-sizing: border-box;">
     <a href="/deep-learning">
       <img src="/assets/images/Deep_Learning_Link.png" alt="Deep Learning" style="width: 100%; height: 600px; object-fit: contain;">
       <h3>Deep Learning</h3>
@@ -47,3 +47,4 @@ intro:
   </div>
 
 </div>
+
