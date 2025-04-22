@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/AITree.png
   caption: "Photo credit: Marco Camaiti"
 excerpt: Welcome to the wonderful world of Phenomics with AI
+---
 
 ## Welcome to Phenomics AI
 
