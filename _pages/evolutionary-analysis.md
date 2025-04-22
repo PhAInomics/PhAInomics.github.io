@@ -1,22 +1,24 @@
 ---
 title: "Evolutionary Analysis"
+layout: splash
 permalink: /evolutionary-analysis/
-layout: default
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Evolutionary_Analysis.png
-  caption: "Photo credit: Marco Camaiti"
-excerpt: Overview of AI applications in evolutionary analysis.
+  caption: "Photo credit: Your Name or Source"
+excerpt: Learn how AI can be applied to evolutionary analysis and the study of evolutionary traits.
 ---
 
-## Evolutionary Analysis with AI
+[Go to Home Page](/home/)
 
-AI is playing an increasingly important role in understanding evolutionary processes. This section explores how AI-driven techniques are being applied to study evolutionary patterns, track genetic variation, and predict adaptive responses to changing environments. 
+---
 
-From evolutionary tree reconstruction to the analysis of genetic drift and selection, AI tools help researchers unlock the mysteries of how species evolve over time. We examine how AI models are being used to simulate evolutionary processes, identify genomic signatures of adaptation, and predict phenotypic changes in response to environmental pressures.
+## Evolutionary Analysis in AI-Driven Phenomics
 
-By combining AI and evolutionary analysis, we can gain deeper insights into how organisms evolve and adapt to their environments, opening up new avenues for research in evolutionary biology and conservation.
+**Evolutionary analysis** is the study of the mechanisms driving phenotypic changes over time. AI-based methods are becoming increasingly important for analyzing evolutionary traits in biological specimens. This page provides an overview of how AI technologies help researchers model and predict evolutionary trends, examining genetic, environmental, and morphological factors that drive phenotypic evolution.
+
+Explore how AI is being applied to simulate evolutionary processes and enhance our understanding of the forces that shape species over time.
 
 ---
 
