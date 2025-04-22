@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/AI_Tree_w_Meshes.png
-  caption: "Photo credit: Your Name or Source"
+  caption: "Photo credit: Marco Camaiti"
 excerpt: Dive into the fascinating field of phenomics and how AI is revolutionizing phenotypic research.
 ---
 
