@@ -1,20 +1,24 @@
 ---
 title: "Data Acquisition"
+layout: splash
 permalink: /data-acquisition/
-layout: default
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Figure_6_robotic_arm.jpg
-  caption: "Photo credit: Marco Camaiti"
-excerpt: Overview of data acquisition methods for phenomics.
+  caption: "Photo credit: Your Name or Source"
+excerpt: Explore the advanced methods and tools for acquiring biological data through AI.
 ---
 
-## Data Acquisition in Phenomics
+[Go to Home Page](/home/)
 
-This page focuses on the data acquisition techniques that are essential for phenomic research. It covers automated methods, robotic arms, and other cutting-edge technologies for collecting biological data. 
+---
 
-We explore the applications of AI in gathering high-quality data for phenotypic analysis and the future directions of data acquisition in biological research.
+## Data Acquisition in AI-Driven Phenomics
+
+In the realm of phenomics, **data acquisition** plays a crucial role in gathering high-quality biological data for analysis. This page outlines the techniques and technologies used to automate and optimize the data acquisition process, making it faster and more efficient. Whether you're collecting images, measurements, or environmental data, AI-based tools can drastically improve the precision and scalability of your research.
+
+From robotic arms to specialized imaging systems, this section provides an overview of cutting-edge technologies that assist researchers in capturing phenotypic data for further analysis.
 
 ---
 
