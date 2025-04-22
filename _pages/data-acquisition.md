@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Figure_6_robotic_arm.jpg
-  caption: "Photo credit: Your Name or Source"
+  caption: "Photo credit: Arianna Salili-James"
 excerpt: Explore the advanced methods and tools for acquiring biological data through AI.
 ---
 
