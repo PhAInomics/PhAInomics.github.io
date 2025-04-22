@@ -19,33 +19,5 @@ intro:
   <figcaption>Main Image Description</figcaption>
 </figure>
 
-<!-- Grid layout for bottom images -->
-<div class="grid">
-
-  <!-- Artificial Intelligence -->
-  <div class="grid-item">
-    <a href="/artificial-intelligence">
-      <img src="/assets/images/Artificial_Intelligence_Link.png" alt="Artificial Intelligence" />
-      <h3>Artificial Intelligence</h3>
-    </a>
-  </div>
-
-  <!-- Machine Learning -->
-  <div class="grid-item">
-    <a href="/machine-learning">
-      <img src="/assets/images/Machine_Learning_Link.png" alt="Machine Learning" />
-      <h3>Machine Learning</h3>
-    </a>
-  </div>
-
-  <!-- Deep Learning -->
-  <div class="grid-item">
-    <a href="/deep-learning">
-      <img src="/assets/images/Deep_Learning_Link.png" alt="Deep Learning" />
-      <h3>Deep Learning</h3>
-    </a>
-  </div>
-
-</div>
 
 
