@@ -19,32 +19,33 @@ intro:
   <figcaption>Main Image Description</figcaption>
 </figure>
 
-<!-- Full-width container for bottom images with spacing -->
-<div style="width: 100%; display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin-top: 30px;">
+<!-- Grid layout for bottom images -->
+<div class="grid">
 
-  <!-- First image -->
-  <div style="width: 33.33%; text-align: center; box-sizing: border-box;">
+  <!-- Artificial Intelligence -->
+  <div class="grid-item">
     <a href="/artificial-intelligence">
-      <img src="/assets/images/Artificial_Intelligence_Link.png" alt="Artificial Intelligence" style="width: 100%; height: 600px; object-fit: contain;">
+      <img src="/assets/images/Artificial_Intelligence_Link.png" alt="Artificial Intelligence" />
       <h3>Artificial Intelligence</h3>
     </a>
   </div>
 
-  <!-- Second image -->
-  <div style="width: 33.33%; text-align: center; box-sizing: border-box;">
+  <!-- Machine Learning -->
+  <div class="grid-item">
     <a href="/machine-learning">
-      <img src="/assets/images/Machine_Learning_Link.png" alt="Machine Learning" style="width: 100%; height: 600px; object-fit: contain;">
+      <img src="/assets/images/Machine_Learning_Link.png" alt="Machine Learning" />
       <h3>Machine Learning</h3>
     </a>
   </div>
 
-  <!-- Third image -->
-  <div style="width: 33.33%; text-align: center; box-sizing: border-box;">
+  <!-- Deep Learning -->
+  <div class="grid-item">
     <a href="/deep-learning">
-      <img src="/assets/images/Deep_Learning_Link.png" alt="Deep Learning" style="width: 100%; height: 600px; object-fit: contain;">
+      <img src="/assets/images/Deep_Learning_Link.png" alt="Deep Learning" />
       <h3>Deep Learning</h3>
     </a>
   </div>
 
 </div>
+
 
