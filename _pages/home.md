@@ -25,7 +25,7 @@ intro:
   <!-- First image -->
   <div style="width: 33.33%; text-align: center;">
     <a href="/artificial-intelligence">
-      <img src="/assets/images/Artificial_Intelligence_Lin.png" alt="Artificial Intelligence" style="width: 100%; height: 600px; object-fit: contain;">
+      <img src="/assets/images/Artificial_Intelligence_Link.png" alt="Artificial Intelligence" style="width: 100%; height: 600px; object-fit: contain;">
       <h3>Artificial Intelligence</h3>
     </a>
   </div>
@@ -33,7 +33,7 @@ intro:
   <!-- Second image -->
   <div style="width: 33.33%; text-align: center;">
     <a href="/machine-learning">
-      <img src="/assets/images/Machine_Learning_Lin.png" alt="Machine Learning" style="width: 100%; height: 600px; object-fit: contain;">
+      <img src="/assets/images/Machine_Learning_Link.png" alt="Machine Learning" style="width: 100%; height: 600px; object-fit: contain;">
       <h3>Machine Learning</h3>
     </a>
   </div>
@@ -41,7 +41,7 @@ intro:
   <!-- Third image -->
   <div style="width: 33.33%; text-align: center;">
     <a href="/deep-learning">
-      <img src="/assets/images/Deep_Learning_Lik.png" alt="Deep Learning" style="width: 100%; height: 600px; object-fit: contain;">
+      <img src="/assets/images/Deep_Learning_Link.png" alt="Deep Learning" style="width: 100%; height: 600px; object-fit: contain;">
       <h3>Deep Learning</h3>
     </a>
   </div>
