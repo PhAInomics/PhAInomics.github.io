@@ -59,7 +59,7 @@ feature_row4:
 <div class="grid">
   <div class="grid-item">
     <a href="/data-acquisition">
-      <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="Data Acquisition" />
+      <img src="/assets/images/Figure_6_robotic_arm.jpg" alt="Data Acquisition" />
       <h3>Data Acquisition</h3>
     </a>
   </div>
