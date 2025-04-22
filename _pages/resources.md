@@ -65,7 +65,7 @@ feature_row4:
   </div>
   <div class="grid-item">
     <a href="/image-processing">
-      <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="Image Processing" />
+      <img src="/assets/images/Figure_2_learning_strategy.png" alt="Image Processing" />
       <h3>Image Processing</h3>
     </a>
   </div>
