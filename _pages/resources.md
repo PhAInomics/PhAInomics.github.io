@@ -71,7 +71,7 @@ feature_row4:
   </div>
   <div class="grid-item">
     <a href="/phenomics">
-      <img src="/assets/images/AITree.png" alt="Phenomics" />
+      <img src="/assets/images/AI_Tree_w_Meshes.png" alt="Phenomics" />
       <h3>Phenomics</h3>
     </a>
   </div>
