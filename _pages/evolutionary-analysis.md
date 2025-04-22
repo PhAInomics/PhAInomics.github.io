@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Evolutionary_Analysis.png
-  caption: "Photo credit: Your Name or Source"
+  caption: "Photo credit: Anjali Goswami"
 excerpt: Learn how AI can be applied to evolutionary analysis and the study of evolutionary traits.
 ---
 
