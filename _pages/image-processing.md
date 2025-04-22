@@ -1,18 +1,24 @@
 ---
 title: "Image Processing"
+layout: splash
 permalink: /image-processing/
-layout: default
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Figure_2_learning_strategy.png
-  caption: "Photo credit: Marco Camaiti"
-excerpt: Overview of AI-driven image processing techniques for phenomics.
+  caption: "Photo credit: Your Name or Source"
+excerpt: Discover how AI methods are transforming the processing of biological images.
 ---
 
-## Image Processing in Phenomics
+[Go to Home Page](/home/)
 
-Explore the power of AI for image processing in phenomics. This section highlights various methods used to extract valuable information from complex biological images. Learn how automated image analysis is transforming the study of phenotypic data and speeding up the research process.
+---
+
+## Image Processing in AI-Driven Phenomics
+
+AI-driven **image processing** methods are crucial for analyzing complex biological images, enabling faster and more accurate extraction of phenotypic data. In this section, we explore AI algorithms that automate the identification and quantification of morphological features in biological specimens. Learn how deep learning and computer vision techniques are being applied to enhance image analysis and automate workflows.
+
+From segmentation to feature extraction, AI tools are accelerating the process of analyzing large datasets, providing greater insight into phenotypic variation.
 
 ---
 
