@@ -60,9 +60,11 @@ This is a project site of the Goswami lab at the Natural History Museum. We are 
 <br>
 
 <figure>
-  <img
-    src="https://raw.githubusercontent.com/PhAInomics/PhAInomics.github.io/main/assets/images/SPROUT.png"
-    alt="Skulls segmented using SPROUT"
-  >
+  <a href="https://www.goswamilab.com/anjali" target="_blank" rel="noopener">
+    <img
+      src="https://raw.githubusercontent.com/PhAInomics/PhAInomics.github.io/main/assets/images/SPROUT.png"
+      alt="Skulls segmented using SPROUT"
+    >
+  </a>
   <figcaption>Skulls segmented using SPROUT</figcaption>
 </figure>
