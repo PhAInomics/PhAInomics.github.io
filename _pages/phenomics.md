@@ -1,22 +1,24 @@
 ---
 title: "Phenomics"
+layout: splash
 permalink: /phenomics/
-layout: default
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/AI_Tree_w_Meshes.png
-  caption: "Photo credit: Marco Camaiti"
-excerpt: Overview of AI applications in phenomics.
+  caption: "Photo credit: Your Name or Source"
+excerpt: Dive into the fascinating field of phenomics and how AI is revolutionizing phenotypic research.
 ---
 
-## Phenomics and AI
+[Go to Home Page](/home/)
 
-Phenomics is the study of phenotypes—the observable traits of an organism. In this section, we explore how AI-driven methods are transforming the analysis of phenotypic data. AI applications such as deep learning and machine vision allow researchers to identify and quantify phenotypic traits from complex biological images and datasets.
+---
 
-We discuss the role of AI in automating the analysis of phenotypes and the potential for AI to uncover new insights into how phenotypic variation evolves in response to environmental pressures.
+## Phenomics in AI-Driven Research
 
-Phenomics with AI is revolutionizing the way we understand the relationship between genotype and phenotype, making this an essential tool for evolutionary biology, ecology, and agriculture.
+**Phenomics** is the study of phenotypic variation within populations, and it plays a central role in understanding evolutionary biology. This page highlights how AI tools are helping researchers explore phenotypic traits, variations, and the link between phenotype and genotype. From environmental factors to evolutionary adaptations, AI-based methods are opening new frontiers in phenomics.
+
+Learn how AI technologies are transforming the study of phenotypic data, from data acquisition to evolutionary modeling.
 
 ---
 
