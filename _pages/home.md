@@ -25,7 +25,7 @@ Join us as we explore the exciting potential of AI in revolutionizing the way we
 <!-- Main Image at the top -->
 <figure>
   <img src="/assets/images/Fig.1 updated.jpg" alt="Main Image" style="width: 100%;">
-  <figcaption>Main Image Description</figcaption>
+  <figcaption>Development of Artificial Intelligence Through Time</figcaption>
 </figure>
 
 ---
