@@ -16,7 +16,7 @@ This page provides an overview of essential resources in **AI-driven phenomics**
 
 <div class="grid">
   <div class="grid-item">
-    <a href="/data-acquisition" style="font-size: 1.5em; font-weight: bold;">
+    <a href="/data-acquisition" style="font-size: 5em; font-weight: bold;">
       <div style="text-align: center;">
         <h3>Data Acquisition</h3>
       </div>
@@ -24,7 +24,7 @@ This page provides an overview of essential resources in **AI-driven phenomics**
     </a>
   </div>
   <div class="grid-item">
-    <a href="/image-processing" style="font-size: 1.5em; font-weight: bold;">
+    <a href="/image-processing" style="font-size: 5em; font-weight: bold;">
       <div style="text-align: center;">
         <h3>Image Processing</h3>
       </div>
@@ -32,7 +32,7 @@ This page provides an overview of essential resources in **AI-driven phenomics**
     </a>
   </div>
   <div class="grid-item">
-    <a href="/phenomics" style="font-size: 1.5em; font-weight: bold;">
+    <a href="/phenomics" style="font-size: 5em; font-weight: bold;">
       <div style="text-align: center;">
         <h3>Phenomics</h3>
       </div>
@@ -40,7 +40,7 @@ This page provides an overview of essential resources in **AI-driven phenomics**
     </a>
   </div>
   <div class="grid-item">
-    <a href="/evolutionary-analysis" style="font-size: 1.5em; font-weight: bold;">
+    <a href="/evolutionary-analysis" style="font-size: 5em; font-weight: bold;">
       <div style="text-align: center;">
         <h3>Evolutionary Analysis</h3>
       </div>
