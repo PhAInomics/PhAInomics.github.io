@@ -41,7 +41,7 @@ intro:
   <!-- Third image -->
   <div style="width: 33.33%; text-align: center;">
     <a href="/deep-learning">
-      <img src="/assets/images/Deep_Learnin_Link.png" alt="Deep Learning" style="width: 100%; height: 600px; object-fit: contain;">
+      <img src="/assets/images/Deep_Learning_Link.png" alt="Deep Learning" style="width: 100%; height: 600px; object-fit: contain;">
       <h3>Deep Learning</h3>
     </a>
   </div>
