@@ -66,9 +66,12 @@ The increased availability of 3D image data requires improving the efficiency of
 <br>
 
 <figure>
-  <img
-    src="https://raw.githubusercontent.com/PhAInomics/PhAInomics.github.io/main/assets/images/FLOWCHART2.jpg"
-    alt="SPROUT pipeline"
-  >
+  <a href="https://github.com/EchanHe/SPROUT" target="_blank" rel="noopener">
+    <img
+      src="https://raw.githubusercontent.com/PhAInomics/PhAInomics.github.io/main/assets/images/FLOWCHART2.jpg"
+      alt="SPROUT pipeline"
+    >
+  </a>
   <figcaption>Summary of the SPROUT pipeline</figcaption>
 </figure>
+
