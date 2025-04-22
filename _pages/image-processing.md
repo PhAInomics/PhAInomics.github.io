@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Figure_2_learning_strategy.png
-  caption: "Photo credit: Your Name or Source"
+  caption: "Photo credit: Yichen He"
 excerpt: Discover how AI methods are transforming the processing of biological images.
 ---
 
