@@ -16,9 +16,9 @@ excerpt: Dive into the fascinating field of phenomics and how AI is revolutioniz
 
 ## Phenomics in AI-Driven Research
 
-**Phenomics** is the study of phenotypic variation within populations, and it plays a central role in understanding evolutionary biology. This page highlights how AI tools are helping researchers explore phenotypic traits, variations, and the link between phenotype and genotype. From environmental factors to evolutionary adaptations, AI-based methods are opening new frontiers in phenomics.
+**Phenomics** is the study of high-dimensional phenotypic variation within and across populations, and it plays a central role in understanding evolutionary biology. This page highlights how AI tools are helping researchers explore phenotypic traits, variations, and the high-dimensional phenotype. From extraction of discrete traits to pose estimations, AI-based methods are opening new frontiers in phenomics.
 
-Learn how AI technologies are transforming the study of phenotypic data, from data acquisition to evolutionary modeling.
+Learn how AI technologies are transforming the study and extraction of phenotypic data. 
 
 ---
 
