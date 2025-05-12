@@ -24,39 +24,39 @@ Learn how AI technologies are transforming the study and extraction of phenotypi
 
 <div class="grid">
   <div class="grid-item">
-    <a href="/data-acquisition">
-      <h3>Data Acquisition</h3>
-      <img src="/assets/images/Figure_6_robotic_arm.jpg" alt="Data Acquisition" />
+    <a href="/Discrete Traits">
+      <h3>Discrete Traits</h3>
+      <img src="/assets/images/Discrete Traits" alt="Discrete Traits" />
     </a>
   </div>
   <div class="grid-item">
-    <a href="/image-processing">
-      <h3>Image Processing</h3>
-      <img src="/assets/images/Figure_2_learning_strategy.png" alt="Image Processing" />
+    <a href="/Univariate Traits">
+      <h3>Univariate Traits</h3>
+      <img src="/assets/images/Univariate Traits" alt="Univariate Traits" />
     </a>
   </div>
   <div class="grid-item">
-    <a href="/phenomics">
-      <h3>Phenomics</h3>
-      <img src="/assets/images/AI_Tree_w_Meshes.png" alt="Phenomics" />
+    <a href="/Automated Landmarking">
+      <h3>Automated Landmarking</h3>
+      <img src="/assets/images/Automated Landmarking" alt="Automated Landmarking" />
     </a>
   </div>
   <div class="grid-item">
-    <a href="/evolutionary-analysis">
-      <h3>Evolutionary Analysis</h3>
-      <img src="/assets/images/Evolutionary_Analysis.png" alt="Evolutionary Analysis" />
+    <a href="/Landmark-Free Analysis">
+      <h3>Landmark-Free Analysis</h3>
+      <img src="/assets/images/Landmark-Free Analysis" alt="Landmark-Free Analysis" />
     </a>
   </div>
   <div class="grid-item">
-    <a href="/modeling">
-      <h3>Modeling</h3>
-      <img src="/assets/images/modeling_image.png" alt="Modeling" />
+    <a href="/Colour">
+      <h3>Colour</h3>
+      <img src="/assets/images/Colour" alt="Colour" />
     </a>
   </div>
   <div class="grid-item">
-    <a href="/data-visualization">
-      <h3>Data Visualization</h3>
-      <img src="/assets/images/visualization_image.png" alt="Data Visualization" />
+    <a href="/Pose Estimation">
+      <h3>Pose Estimation</h3>
+      <img src="/assets/images/Pose Estimation" alt="Pose Estimation" />
     </a>
   </div>
 </div>
