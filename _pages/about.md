@@ -10,7 +10,7 @@ header:
 excerpt: Welcome to the wonderful world of Phenomics with AI
 ---
 
-This is a project site of the Goswami lab at the Natural History Museum. We are broadly interested in the evolution of organismal shape and try to capture this using high-dimensional morphometric approaches. Because this is really hard and time-consuming to do, we have been exploring AI approaches to data collection and analysis. This site shares what we have learned or developed. It is, and will almost certainly always be, a work in progress. You can read more about our evolutionary research at [www.goswamilab.com](http://www.goswamilab.com).
+This is a project site of the Goswami lab at the Natural History Museum, London, UK. We are broadly interested in the evolution of organismal shape and the advancement of methods used to capture phenotypic traits. As the extraction of these features is often complex and time-consuming, here we present the potential ways in which Artificial Intelligence (AI) can be used to overcome existing issues. This site shares what we have learned or developed so far. It is, and will almost certainly always be, a work in progress, so please visit frequently to catch all updates. You can read more about our broader evolutionary research at [www.goswamilab.com](http://www.goswamilab.com).
 
 <br>
 
