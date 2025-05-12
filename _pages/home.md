@@ -16,7 +16,7 @@ In an era where technology and biological sciences intersect, **Phenomics AI** s
 
 Here, we leverage cutting-edge computational techniques, such as deep learning and automated image analysis, to analyze complex biological data. Our mission is to support researchers and practitioners in their exploration of phenotypic variation, evolutionary processes, and ecological adaptations, all while providing the power of AI to streamline data processing and analysis.
 
-Whether you're interested in **Data Acquisition**, **Image Processing**, **Phenomics**, or **Evolutionary Analysis**, Phenomics AI offers a comprehensive suite of resources designed to accelerate your research. Explore the latest advancements in the field and discover new ways to enhance your understanding of how organisms interact with their environment.
+Whether you're interested in **Data Acquisition**, **Image Processing**, **Phenomics**, or **Evolutionary Analysis**, Phenomics AI offers a comprehensive suite of resources designed to accelerate your research. Explore the latest advancements in the field and discover new ways to enhance your understanding of how organisms evolve through deep time. 
 
 Join us as we explore the exciting potential of AI in revolutionizing the way we study and understand biological phenotypes.
 
