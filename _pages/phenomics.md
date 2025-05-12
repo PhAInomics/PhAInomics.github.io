@@ -7,9 +7,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/AI_Tree_w_Meshes.png
   caption: "Photo credit: Marco Camaiti"
+  header_style: "background-color: white;" # Add inline CSS for the header background
 excerpt: Dive into the fascinating field of phenomics and how AI is revolutionizing phenotypic research.
 ---
-
 [Go to Home Page](/home/)
 
 ---
