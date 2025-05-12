@@ -14,7 +14,6 @@ excerpt: Explore the key resources available for applying AI in the field of phe
 
 This page provides an overview of essential resources in **AI-driven Phenomics**, focusing on key areas such as **Data Acquisition**, **Image Processing**, **Phenomics**, and **Evolutionary Analysis**. Each section offers tools and techniques that help researchers advance their work by leveraging Artificial Intelligence (AI) in the analysis of biological data. From automating data collection to processing complex phenotypic information, this page serves as a gateway to discovering powerful AI methods for understanding the relationship between genotype and phenotype. Please visit regularly for the latest updates. 
 
-
 <div class="grid">
   <div class="grid-item">
     <a href="/data-acquisition">
@@ -41,6 +40,7 @@ This page provides an overview of essential resources in **AI-driven Phenomics**
     </a>
   </div>
 </div>
+
 ---
 
 **Citation:**  
