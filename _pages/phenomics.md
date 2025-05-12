@@ -22,6 +22,47 @@ Learn how AI technologies are transforming the study and extraction of phenotypi
 
 ---
 
+<div class="grid">
+  <div class="grid-item">
+    <a href="/data-acquisition">
+      <h3>Data Acquisition</h3>
+      <img src="/assets/images/Figure_6_robotic_arm.jpg" alt="Data Acquisition" />
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="/image-processing">
+      <h3>Image Processing</h3>
+      <img src="/assets/images/Figure_2_learning_strategy.png" alt="Image Processing" />
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="/phenomics">
+      <h3>Phenomics</h3>
+      <img src="/assets/images/AI_Tree_w_Meshes.png" alt="Phenomics" />
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="/evolutionary-analysis">
+      <h3>Evolutionary Analysis</h3>
+      <img src="/assets/images/Evolutionary_Analysis.png" alt="Evolutionary Analysis" />
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="/modeling">
+      <h3>Modeling</h3>
+      <img src="/assets/images/modeling_image.png" alt="Modeling" />
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="/data-visualization">
+      <h3>Data Visualization</h3>
+      <img src="/assets/images/visualization_image.png" alt="Data Visualization" />
+    </a>
+  </div>
+</div>
+
+---
+
 **Citation:**  
 Y. He, J.M. Mulqueeney, E.C. Watt, A. Salili-James, N.S. Barber, M. Camaiti,  
 E.S.E. Hunt, O. Kippax-Chui, A. Knapp, A. Lanzetti, G. Rangel-de Lázaro,  
