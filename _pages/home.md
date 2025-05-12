@@ -12,9 +12,9 @@ excerpt: Welcome to the wonderful world of Phenomics with AI
 
 ## Welcome to Phenomics AI
 
-In an era where technology and biological sciences intersect, **Phenomics AI** stands at the forefront of innovation, bridging the gap between artificial intelligence (AI) and phenotypic research. Our platform provides tools and resources aimed at advancing the of study the phenome — the high-dimensional, organism-wide extension of the phenotype. 
+In an era where technology and biological sciences intersect, **Phenomics AI** stands at the forefront of innovation, bridging the gap between Artificial Intelligence (AI) and phenotypic research. Our platform provides tools and resources aimed at advancing the of study the phenome — the high-dimensional, organism-wide extension of the phenotype. 
 
-Here, we leverage cutting-edge computational techniques, such as deep learning and automated image analysis, to analyze complex biological data. Our mission is to support researchers and practitioners in their exploration of phenotypic variation, evolutionary processes, and ecological adaptations, all while providing the power of AI to streamline data processing and analysis.
+Here, we leverage cutting-edge computational techniques, such as deep learning and automated image analysis, to analyse complex biological data. Our mission is to support researchers and practitioners in their exploration of phenotypic variation, evolutionary processes, and ecological adaptations, all while providing the power of AI to streamline data processing and analysis.
 
 Whether you're interested in **Data Acquisition**, **Image Processing**, **Phenomics**, or **Evolutionary Analysis**, Phenomics AI offers a comprehensive suite of resources designed to accelerate your research. Explore the latest advancements in the field and discover new ways to enhance your understanding of how organisms evolve through deep time. 
 
