@@ -17,46 +17,61 @@ This page provides an overview of essential resources in **AI-driven Phenomics**
 <style>
 .grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  margin-top: 20px;
+  grid-template-columns: repeat(2, 1fr); /* Two equal-width columns */
+  gap: 30px;
+  margin-top: 30px;
+  align-items: start;
 }
 .grid-item {
   text-align: center;
 }
 .grid-item img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+.grid-item img:hover {
+  transform: scale(1.03);
+}
+.grid-item h3 {
+  font-size: 1.6em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+a {
+  text-decoration: none;
+  color: inherit;
 }
 </style>
 
 <div class="grid">
   <div class="grid-item">
-    <a href="/data-acquisition" style="font-size: 2.5em; font-weight: bold;">
+    <a href="/data-acquisition">
       <h3>Data Acquisition</h3>
       <img src="/assets/images/Figure_6_robotic_arm.jpg" alt="Data Acquisition" />
     </a>
   </div>
   <div class="grid-item">
-    <a href="/image-processing" style="font-size: 2.5em; font-weight: bold;">
+    <a href="/image-processing">
       <h3>Image Processing</h3>
       <img src="/assets/images/Figure_2_learning_strategy.png" alt="Image Processing" />
     </a>
   </div>
   <div class="grid-item">
-    <a href="/phenomics" style="font-size: 2.5em; font-weight: bold;">
+    <a href="/phenomics">
       <h3>Phenomics</h3>
       <img src="/assets/images/AI_Tree_w_Meshes.png" alt="Phenomics" />
     </a>
   </div>
   <div class="grid-item">
-    <a href="/evolutionary-analysis" style="font-size: 2.5em; font-weight: bold;">
+    <a href="/evolutionary-analysis">
       <h3>Evolutionary Analysis</h3>
       <img src="/assets/images/Evolutionary_Analysis.png" alt="Evolutionary Analysis" />
     </a>
   </div>
 </div>
-
 ---
 
 **Citation:**  
