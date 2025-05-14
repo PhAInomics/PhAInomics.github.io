@@ -22,13 +22,12 @@ Learn how AI technologies are transforming the study and extraction of phenotypi
 
 ---
 
-<div class="grid">
-  <div class="grid-item">
-    <a href="/Discrete Traits">
-      <h3>Discrete Traits</h3>
-      <img src="/assets/images/Discrete Traits" alt="Discrete Traits" />
-    </a>
-  </div>
+<div class="grid-item">
+  <a href="/discrete-traits/">
+    <h3>Discrete Traits</h3>
+    <img src="/assets/images/discrete-traits.png" alt="Discrete Traits" />
+  </a>
+</div>
   <div class="grid-item">
     <a href="/Univariate Traits">
       <h3>Univariate Traits</h3>
