@@ -5,11 +5,12 @@ permalink: /phenomics/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/AI_Tree_w_Meshes.png
+  overlay_image: /assets/images/ai-tree-w-meshes.png
   caption: "Photo credit: Marco Camaiti"
-  header_style: "background-color: white;" # Add inline CSS for the header background
+  header_style: "background-color: white;"
 excerpt: Dive into the fascinating field of phenomics and how AI is revolutionizing phenotypic research.
 ---
+
 [Go to Home Page](/home/)
 
 ---
@@ -22,40 +23,41 @@ Learn how AI technologies are transforming the study and extraction of phenotypi
 
 ---
 
-<div class="grid-item">
-  <a href="/discrete-traits/">
-    <h3>Discrete Traits</h3>
-    <img src="/assets/images/discrete-traits.png" alt="Discrete Traits" />
-  </a>
-</div>
+<div class="grid">
   <div class="grid-item">
-    <a href="/Univariate Traits">
+    <a href="/discrete-traits/">
+      <h3>Discrete Traits</h3>
+      <img src="/assets/images/discrete-traits.png" alt="Discrete Traits" />
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="/univariate-traits/">
       <h3>Univariate Traits</h3>
-      <img src="/assets/images/Univariate Traits" alt="Univariate Traits" />
+      <img src="/assets/images/univariate-traits.png" alt="Univariate Traits" />
     </a>
   </div>
   <div class="grid-item">
-    <a href="/Automated Landmarking">
+    <a href="/automated-landmarking/">
       <h3>Automated Landmarking</h3>
-      <img src="/assets/images/Automated Landmarking" alt="Automated Landmarking" />
+      <img src="/assets/images/automated-landmarking.png" alt="Automated Landmarking" />
     </a>
   </div>
   <div class="grid-item">
-    <a href="/Landmark-Free Analysis">
+    <a href="/landmark-free-analysis/">
       <h3>Landmark-Free Analysis</h3>
-      <img src="/assets/images/Landmark-Free Analysis" alt="Landmark-Free Analysis" />
+      <img src="/assets/images/landmark-free-analysis.png" alt="Landmark-Free Analysis" />
     </a>
   </div>
   <div class="grid-item">
-    <a href="/Colour">
+    <a href="/colour/">
       <h3>Colour</h3>
-      <img src="/assets/images/Colour" alt="Colour" />
+      <img src="/assets/images/colour.png" alt="Colour" />
     </a>
   </div>
   <div class="grid-item">
-    <a href="/Pose Estimation">
+    <a href="/pose-estimation/">
       <h3>Pose Estimation</h3>
-      <img src="/assets/images/Pose Estimation" alt="Pose Estimation" />
+      <img src="/assets/images/pose-estimation.png" alt="Pose Estimation" />
     </a>
   </div>
 </div>
